@@ -1,0 +1,145 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(6, 12, 39);
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+}
+
+.mnd{
+    width: 350px;
+}
+
+section {
+    border-top: 5px solid rgb(194, 96, 22);
+    border-bottom: 5px solid rgb(194, 96, 22);
+    padding: 25px 100px 25px 95px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.black{
+    background-color: black;
+}
+
+.about {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.inside{
+    width: 1000px;
+    font-size: 22px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    margin-top: 45px;
+    margin-bottom: 40px;
+}
+
+h2{
+    color: orange;
+}
+
+footer {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 30px 20px 45px;
+}
+
+
+.img1 {
+    width: 600px;
+    padding: 25px 25px 25px 25px;
+    justify-content: center;
+}
+
+.logo {
+    width: 150px;
+}
+
+.img_inside{
+    margin: 0px 50px 0px 50px;
+}
+
+p {
+    color: rgb(253, 244, 106);
+}
+.text2 {
+    width: 525px;
+    justify-content: center;
+}
+
+section {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.img11 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid rgb(246, 137, 13);
+    float: left;
+    margin-left: 100px;
+}
+.imgundercircle1 {
+    width: 300px;
+    float: left;
+    margin-left: 35px;
+    margin-top: 30px;  
+
+}
+
+
+.img12 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid rgb(112, 240, 180);
+    float: left;
+    margin-left: 120px;
+}
+.imgundercircle2 {
+    width: 300px;
+    height: 180px;
+    float: left;
+    margin-left: 57px;
+}
+
+
+.img13 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid rgb(3, 39, 158);
+    float: left;
+    margin-left: 120px;
+}
+.imgundercircle3 {
+    width: 200px;
+    float: left;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+
+
+.tel {
+    width: 280px;
+    position: absolute;
+    right: 666px;
+    top: 1050px;   
+}
+
+iframe {
+
+}
